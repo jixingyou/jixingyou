@@ -7,8 +7,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -76,5 +74,5 @@ TypeScript               3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jixingyou/jixingyou/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 18:41:44 UTC
+ Last Updated on 19/01/2025 18:41:35 UTC
 <!--END_SECTION:waka-->
