@@ -40,17 +40,16 @@ Sunday                   412 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yoogo                    1 hr 41 mins        █████████████████████████   99.82 % 
-domain_knowledge_server  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +66,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jixingyou/jixingyou/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 18:43:02 UTC
+ Last Updated on 04/02/2025 18:44:28 UTC
 <!--END_SECTION:waka-->
